@@ -1,5 +1,8 @@
 # Ultimate DevSecOps library
 
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
 ## Contribution rules
 If you want to contribute to this library of knowledge please create proper PR (Pull Request) with description what you are adding following these set of rules: 
 
@@ -408,16 +411,17 @@ Here are the other links and resources that do not fit in any previous category.
 | **Mobile security framework** | [https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | SAST, DAST and pentesting tool for mobile apps |![MobSF](https://img.shields.io/github/stars/MobSF/Mobile-Security-Framework-MobSF?style=for-the-badge) |
 | **Legitify** | [https://github.com/Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) | Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets  |![Legitify](https://img.shields.io/github/stars/Legit-Labs/legitify?style=for-the-badge) |
 
+I'm are always open to your feedback.  Please contact as bellow information:
 ### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
-MIT license
-
-Nho Luong (c) 2024
+* Nho Luong (c). All Rights Reserved.
