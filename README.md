@@ -419,21 +419,18 @@ Here are the other links and resources that do not fit in any previous category.
 | **Mobile security framework** | [https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | SAST, DAST and pentesting tool for mobile apps |![MobSF](https://img.shields.io/github/stars/MobSF/Mobile-Security-Framework-MobSF?style=for-the-badge) |
 | **Legitify** | [https://github.com/Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) | Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets  |![Legitify](https://img.shields.io/github/stars/Legit-Labs/legitify?style=for-the-badge) |
 
-# 🚀 I'm are always open to your feedback.  Please contact as bellow information:
-### [Contact ]
-* [Name: nho Luong]
-* [Skype](luongutnho_skype)
-* [Github](https://github.com/nholuongut/)
+![](https://i.imgur.com/waxVImv.png)
+# I'm are always open to your feedback🚀
+# **[Contact Me🇻]**
+* [Name: Nho Luong]
+* [Telegram](+84983630781)
+* [WhatsApp](+84983630781)
+* [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com)
-* [PayPal.me](https://www.paypal.com/paypalme/nholuongut)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.jpg)
+![](Donate.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
-# License
+# License🇻
 * Nho Luong (c). All Rights Reserved.🌟
-
-# License
-* Nho Luong (c). All Rights Reserved.
